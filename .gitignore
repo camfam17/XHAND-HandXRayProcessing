@@ -1,0 +1,5 @@
+venv
+*.png
+*.docx
+.idea
+**/__pycache__
